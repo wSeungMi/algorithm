@@ -4,7 +4,7 @@
 
 ## 커밋 메세지 구조
 
-keyword: #issue 출처 난이도 제목
+keyword: #issue 출처 난이도_문제번호_제목
 
 ## 커밋 메세지 컨벤션
 Solve: 문제 풀이 성공  
