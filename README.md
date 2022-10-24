@@ -11,3 +11,4 @@ Solve: 문제 풀이 성공
 Docs: 문서 수정  
 Add: 내용 추가  
 Improve: 새로운 풀이방법을 제시한 문제
+Rename: 파일명 수정, 파일 이동 
